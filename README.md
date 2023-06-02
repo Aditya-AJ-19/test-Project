@@ -1,12 +1,12 @@
 # testproject
 
 This Project is Built with Flutter and for the database I use Firebase. The state management is done through Flutter Riverpod Package.
+The App Apk is inside apk folder.
 
 ## Boilerplate Features:
 
 
 * Home
-* Routing
 * fireBase Database
 * Flutter Riverpod Provider (State Management)
 * Working Search Bar
@@ -16,11 +16,11 @@ This Project is Built with Flutter and for the database I use Firebase. The stat
 * [flutter_screenutil](https://pub.dev/packages/flutter_screenutil)
 * [cached network image](https://pub.dev/packages/cached_network_image)
 * [carousel slider](https://pub.dev/packages/carousel_slider)
-* [smooth_page_indicator](https://pub.dev/packages/smooth_page_indicator)
-* [flutter_markdown](https://pub.dev/packages/flutter_markdown)
-* [cloud_firestore](https://pub.dev/packages/cloud_firestore)
-* [firebase_core](https://pub.dev/packages/firebase_core)
-* [flutter_riverpod](https://pub.dev/packages/flutter_riverpod)
+* [smooth page indicator](https://pub.dev/packages/smooth_page_indicator)
+* [flutter markdown](https://pub.dev/packages/flutter_markdown)
+* [cloud firestore](https://pub.dev/packages/cloud_firestore)
+* [firebase core](https://pub.dev/packages/firebase_core)
+* [flutter riverpod](https://pub.dev/packages/flutter_riverpod)
 
 ### Folder Structure
 Here is the core folder structure which flutter provides.
